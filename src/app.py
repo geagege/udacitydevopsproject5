@@ -10,4 +10,4 @@ def hello():
 def home():
     return 'Hello World. My name is Sonhh9'
  
-app.run(host="0.0.0.0", port=80, debug=True)
+app.run(host="0.0.0.0", port=8080, debug=True)

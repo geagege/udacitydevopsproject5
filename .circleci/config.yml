@@ -86,6 +86,7 @@ jobs:
               --region $AWS_DEFAULT_REGION \
               --nodegroup-name eks-project5 \
               --nodes 2 \
+              --instance-types t3.small \
               --ssh-access \
               --ssh-public-key udacity \
               --managed
