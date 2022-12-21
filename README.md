@@ -1,5 +1,7 @@
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/geagege/udacitydevopsproject5/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/geagege/udacitydevopsproject5/tree/master)
+
 # Project URL
-https://github.com/geagege/udacityclouddevopsproject5
+https://github.com/geagege/udacitydevopsproject5
 
 # Project overview
 Demo project 5 for Udacity CloudDevOps
